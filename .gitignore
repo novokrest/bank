@@ -1,0 +1,12 @@
+/.gradle/
+/.idea/
+/build/
+/out/
+/*.iml
+/logs/
+/tmp/
+/bin/
+__pycache__/
+.classpath
+.project
+.settings/
